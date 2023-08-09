@@ -6,8 +6,12 @@
 
 React + less + webpack
 
-## 项目运行    yarn start
+## 项目运行  
+## yarn install   
+## yarn start
+
 ![Alt text](image.png)
-## 项目打包    yarn build
+## 项目打包    
+## yarn build
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
